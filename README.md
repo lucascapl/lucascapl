@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **lucascapleal@gmail.com**
 
-- ⚡ Fun fact **I really like coffee ☕**
+- ⚡ biggest fan of rhinos and hippos 🦛🦏**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
