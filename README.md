@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **lucascapleal@gmail.com**
 
-- ⚡ biggest fan of rhinos and hippos 🦛🦏**
+- ⚡ biggest fan of rhinos and hippos 🦛🦏
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascapl&show_icons=true&locale=en&layout=compact" alt="lucascapl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascapl&show_icons=true&locale=en" alt="lucascapl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascapl&" alt="lucascapl" /></p>
