@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A software developer at Flori Tech. I'm also a Computer Science student at UERJ-Rio</h3>
 
-- 🌱 I’m currently learning **full stack Python, embedded systems and web scraping.**
+- 🌱 I’m currently learning **full stack Python and embedded systems with PyQT5.**
 
 - 📫 How to reach me **lucascapleal@gmail.com**
-
-- ⚡ biggest fan of rhinos and hippos 🦛🦏
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
