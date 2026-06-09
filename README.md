@@ -9,7 +9,7 @@
 
 - 🚀 **Founder at Capuano Dev Studio:** Leading a Microenterprise focused on high-quality digital solutions.
 - 🛠️ **Core Focus:** Clean Architecture, Conventional Commits, and performance optimization (WASM, PWA, IndexedDB).
-- 🎓 **Education:** Bachelor of Science in Computer Science from **UERJ**.
+- 🎓 **Education:** Bachelor in Computer Science from **UERJ**.
 - 📫 **How to reach me:** **lucascapleal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
